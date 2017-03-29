@@ -207,7 +207,7 @@
 				TargetAttributes = {
 					BA216D581E8BC3A300E6433F = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = JC39BY23BM;
+						DevelopmentTeam = 946RV72GY8;
 					};
 					BA216D711E8BC3A300E6433F = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -418,7 +418,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Iqbal Singh (ZKG4WAM2JD)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Iqbal Singh (ZKG4WAM2JD)";
 				INFOPLIST_FILE = demodemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
@@ -432,7 +432,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Iqbal Singh (ZKG4WAM2JD)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Iqbal Singh (ZKG4WAM2JD)";
 				INFOPLIST_FILE = demodemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
@@ -507,6 +507,7 @@
 				BA216D881E8BC3A300E6433F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BA216D891E8BC3A300E6433F /* Build configuration list for PBXNativeTarget "demodemoTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +516,7 @@
 				BA216D8B1E8BC3A300E6433F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BA216D8C1E8BC3A300E6433F /* Build configuration list for PBXNativeTarget "demodemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +525,7 @@
 				BA216D8E1E8BC3A300E6433F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
